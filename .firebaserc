@@ -1,5 +1,6 @@
 {
   "projects": {
-    "wallpaperapp": "wallpaperapp-88d06"
+    "wallpaper": "wallpaperapp-88d06",
+    "default": "wallpaperapp-88d06"
   }
 }
