@@ -1,2 +1,2 @@
-# book-catalog-api
-Api for surflabapp:
+# pictures API
+Api for wallpaperapp:
